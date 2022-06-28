@@ -3,8 +3,8 @@ RNN, Implementing a Language Model
 
 ## How to run:
 ```
-python lm classifier.py --model RNN
-python lm.py --model RNN
+python3 lm classifier.py --model RNN
+python3 lm.py --model RNN
 ```
 
 ## Output:
